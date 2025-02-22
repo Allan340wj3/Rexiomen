@@ -1,4 +1,4 @@
-##Summary
+
 La inteligencia artificial (IA) es un campo de la informática que se enfoca en la creación de sistemas capaces de realizar tareas que normalmente requieren inteligencia humana. Estas tareas incluyen el reconocimiento de voz, la visión por computadora, la toma de decisiones, y la traducción de idiomas.
 
 Evolución y Avances:
